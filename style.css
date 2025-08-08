@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: #000;
+    color: #fff;
+    box-sizing: border-box;
+}
+.image-container-item{
+    width: 50%;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 15px auto 0px;
+    /* align-items: center; */
+    justify-content: center;
+    box-shadow: 0 0 10px #ddd;
+}
+.image-container-item p{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.image-container-item img{
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+img{
+    max-width: 100%;
+    height: auto;
+   
+   
+}
